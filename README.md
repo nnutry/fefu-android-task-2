@@ -2,7 +2,7 @@
 
 ### Задание и Результат работы
 
-<img src="example.png" alt="Скриншот задания" width="300">
+<img src="example.png" alt="Скриншот задания" width="700">
 <img src="result.png" alt="Скриншот результата" width="300">
 
 ### Требования:
